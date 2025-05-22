@@ -1,4 +1,8 @@
 Gabi
+<<<<<<< HEAD
 JuanII
+=======
+JuanI
+>>>>>>> 0824e4483b9d7140d042724f7aacf2ed3a57fd74
 Pepe
 María y Luis
